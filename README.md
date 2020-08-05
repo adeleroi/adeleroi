@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**adeleroi/adeleroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... [linkedin profile](https://www.linkedin.com/in/ange-wilfried-n-guessan-634a87ba/)
 - 📫 How to reach me: ... wilfriednguess@gmail.com
 - 😄 Pronouns: ...He / Him
-- ⚡ Fun fact: ...
--->
+<!-- - ⚡ Fun fact: ... -->
+
