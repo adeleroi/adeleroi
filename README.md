@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on a clinic web app and a porfolio management app
+- 🔭 I’m currently working on a portfolio management app
 - 🌱 I’m currently learning ... AWS
 - 💬 Ask me about ... [linkedin profile](https://www.linkedin.com/in/ange-wilfried-n-guessan-634a87ba/)
 - 📫 How to reach me: ... wilfriednguess@gmail.com
