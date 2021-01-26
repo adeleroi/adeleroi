@@ -1,4 +1,4 @@
- <img src="https://firebasestorage.googleapis.com/v0/b/cryptowebsite-798af.appspot.com/o/mywebsite%20images%2Foctocat.png?alt=media&token=0dc4dd74-689a-4d20-aedb-a188d114579e" align="right" width="280px" height="300px"/>
+<!-- <img src="https://firebasestorage.googleapis.com/v0/b/cryptowebsite-798af.appspot.com/o/mywebsite%20images%2Foctocat.png?alt=media&token=0dc4dd74-689a-4d20-aedb-a188d114579e" align="right" width="280px" height="300px"/> -->
 
 ### Hi there, I'm Will 👋 - [will.dev](https://aproposdewill.dev)
 
