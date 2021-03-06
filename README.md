@@ -1,14 +1,14 @@
 <!-- <img src="https://firebasestorage.googleapis.com/v0/b/cryptowebsite-798af.appspot.com/o/mywebsite%20images%2Foctocat.png?alt=media&token=0dc4dd74-689a-4d20-aedb-a188d114579e" align="right" width="280px" height="300px"/> -->
 
-### Hi there, I'm Will 👋 - [will.dev](https://aproposdewill.dev)
+<!-- ### Hi there, I'm Will 👋 - [will.dev](https://aproposdewill.dev) -->
 
 
 
-- 🔭 I’m currently working on a portfolio management app
+<!-- - 🔭 I’m currently working on a portfolio management app
 - 🌱 I’m currently learning ... AWS
 - 💬 Ask me about ... [linkedin profile](https://www.linkedin.com/in/ange-wilfried-n-guessan-634a87ba/)
 - 📫 How to reach me: ... wilfriednguess@gmail.com
-- 😄 Pronouns: ...He / Him
+-  - 😄 Pronouns: ...He / Him -->
 <!-- - ⚡ Fun fact: ... -->
 
 <!--- 👯 I’m looking to collaborate on ... --> 
